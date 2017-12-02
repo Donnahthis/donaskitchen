@@ -12,5 +12,23 @@
 	text-align: center;
 	margin-top: 18px;
 	font-color: white;
-
 }
+.container#men {
+    opacity: 2;
+    margin-left: -433px;
+    margin-top: 375px;
+    margin-bottom: 137px;
+    min-width: 2px;
+    margin-right: 200px
+   }
+   
+   h3 {
+       text-align: center;
+       font-size: 24px;
+       margin-top: 20px;
+       margin-bottom: 10px;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       font-weight: 500;
+       line-height: 1.1;
+       color: inherit;
+   }
